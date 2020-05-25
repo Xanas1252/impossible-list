@@ -49,3 +49,14 @@ ul{
 	font-size:1.1em;
 	text-decoration: underline; 
 }
+@media only screen and (max-width: 425px){
+.title{
+	font-size:3em;
+}
+.DESC {
+	font-size: 1em;
+}
+.main{
+	padding-left: 0;
+}
+}
