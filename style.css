@@ -10,7 +10,7 @@
 .title{
 	color: black;
 	text-align: center;
-	text-decoration: 10px white line-through ;
+	text-decoration: white line-through ;
 
 	text-transform: uppercase;
 	font-weight: bolder;
@@ -52,14 +52,16 @@ ul{
 	text-decoration: underline; 
 }
 
-
-@media only screen and (max-width:425px){
-.title{
-	font-size: 3em;
+.date{
+	text-decoration: initial;
 }
-.DESC{
+
+@media only screen and (max-width: 425px){
+.title{
+	font-size:3em;
+}
+.DESC {
 	font-size: 1em;
-	text-align: center;
 }
 .main{
 	padding-left: 0;
