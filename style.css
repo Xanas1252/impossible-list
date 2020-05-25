@@ -11,6 +11,7 @@
 	color: black;
 	text-align: center;
 	text-decoration: 10px white line-through ;
+
 	text-transform: uppercase;
 	font-weight: bolder;
 	font-size: 5em;
@@ -24,6 +25,7 @@ ul{
 	margin: 0;
 }
 .AI{
+	font-size: 1em;
 	font-style: italic;
 	font-weight: bold;
 	background-color: black;
@@ -48,4 +50,18 @@ ul{
 	text-transform: uppercase;
 	font-size:1.1em;
 	text-decoration: underline; 
+}
+
+
+@media only screen and (max-width:425px){
+.title{
+	font-size: 3em;
+}
+.DESC{
+	font-size: 1em;
+	text-align: center;
+}
+.main{
+	padding-left: 0;
+}
 }
