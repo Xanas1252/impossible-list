@@ -49,6 +49,11 @@ ul{
 	font-size:1.1em;
 	text-decoration: underline; 
 }
+
+.date{
+	text-decoration: initial;
+}
+
 @media only screen and (max-width: 425px){
 .title{
 	font-size:3em;
