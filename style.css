@@ -1,0 +1,51 @@
+*{
+	box-sizing: border-box;	
+	font-family: "arial";
+
+}
+
+.main{
+	padding-left: 5em;
+}
+.title{
+	color: black;
+	text-align: center;
+	text-decoration: 10px white line-through ;
+	text-transform: uppercase;
+	font-weight: bolder;
+	font-size: 5em;
+	margin: 0;
+}
+.DESC{
+	
+	font-size: 1.2em;
+}
+ul{
+	margin: 0;
+}
+.AI{
+	font-style: italic;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	display: inline-block;
+	margin: 0;
+}
+.SCD{
+	font-style: italic;
+	
+	margin: 0;
+	font-weight: lighter;
+}
+.items{
+	margin-top:0.5em; 
+}
+.domaine{
+	margin-top:5em; 
+	margin-bottom: 0;
+	color: #333;
+	font-family: "arial";
+	text-transform: uppercase;
+	font-size:1.1em;
+	text-decoration: underline; 
+}
