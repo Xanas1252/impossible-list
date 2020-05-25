@@ -10,8 +10,7 @@
 .title{
 	color: black;
 	text-align: center;
-	text-decoration: white line-through ;
-
+	text-decoration: 10px white line-through ;
 	text-transform: uppercase;
 	font-weight: bolder;
 	font-size: 5em;
@@ -25,7 +24,6 @@ ul{
 	margin: 0;
 }
 .AI{
-	font-size: 1em;
 	font-style: italic;
 	font-weight: bold;
 	background-color: black;
@@ -52,9 +50,7 @@ ul{
 	text-decoration: underline; 
 }
 
-.date{
-	text-decoration: initial;
-}
+
 
 @media only screen and (max-width: 425px){
 .title{
