@@ -56,6 +56,10 @@ ul{
 	text-align: center;
 }
 
+table, th, td {
+  border: 1px solid black;
+}
+
 @media only screen and (max-width: 425px){
 .title{
 	font-size:3em;
